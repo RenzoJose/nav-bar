@@ -2,4 +2,8 @@ Mi madre es hermosa
 y es bien cuidada
 gracias por todo
 
+<<<<<<< HEAD
 aquí es la prueba de conflicto
+=======
+prueba de conflicto
+>>>>>>> experimentar
